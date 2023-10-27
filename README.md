@@ -1,5 +1,5 @@
 # RTNet: A neural network that exhibits the signatures of human perceptual decision making
-The preprint of the paper is avilable [here](https://www.researchsquare.com/article/rs-2222633/v1).
+The preprint of the paper is avilable [here](https://www.biorxiv.org/content/10.1101/2022.08.23.505015v2.abstract).
 
 ## Requirments
 The files in this repository should be run on Google Colab. All dependencies will be automatically taken care of when running the code on Coalb. 
