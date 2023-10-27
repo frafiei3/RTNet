@@ -2,7 +2,7 @@
 The preprint of the paper is avilable [here](https://www.biorxiv.org/content/10.1101/2022.08.23.505015v2.abstract).
 
 ## Requirments
-The files in this repository should be run on Google Colab. All dependencies will be automatically taken care of when running the code on Coalb. 
+The files in this repository should be run on Google Colab. All dependencies will be automatically taken care of when running the code on Colab. 
 
 ## Run the code
 The instructions to run the simulations are given at the begining of each notebook. In summary, all you need to do is to provide the path for pretrained models and output path to save the resulting simulations. Once that is done, you are all set. Press Run button. 
